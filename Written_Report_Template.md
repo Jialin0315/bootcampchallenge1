@@ -9,11 +9,11 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-        The amount of successful (fund raised exceeded the goal), failed(fun raised did not reach the goal) and canceled (project did not conduct) projects within each months were organized into a pivot table and a line graph.
+-The amount of successful (fund raised exceeded the goal), failed(fun raised did not reach the goal) and canceled (project did not conduct) projects within each months were organized into a pivot table and a line graph.
 ### Analysis of Outcomes Based on Goals
-        Number of successful, failed and canceled projects were determined under different intervals of gundrasing goal. Percentage of successful, failed and canceled project were calculated for each of the intervals and shown in a line graph.
+-Number of successful, failed and canceled projects were determined under different intervals of gundrasing goal. Percentage of successful, failed and canceled project were calculated for each of the intervals and shown in a line graph.
 ### Challenges and Difficulties Encountered
-        While generating the pivot table for outcomes based on launch date, the year and date would have to be removed in the axis catagory so that only month is on display of the row lables.
+-While generating the pivot table for outcomes based on launch date, the year and date would have to be removed in the axis catagory so that only month is on display of the row lables.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
